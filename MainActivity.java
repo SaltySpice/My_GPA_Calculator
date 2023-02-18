@@ -89,7 +89,7 @@ public class MainActivity extends AppCompatActivity {
             }
         });
 
-        // Ensure there are no empty firlds.
+        // Ensure there are no empty fields.
 
         btn.setOnClickListener(new View.OnClickListener() {
             @Override
